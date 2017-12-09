@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/robot/beans/Person.java=UTF-8
+encoding//src/com/service/PersonServiceImpl.java=UTF-8
+encoding//src/com/service/PersonServiceImplService.java=UTF-8
+encoding//src/com/service/PersonServiceImplServiceLocator.java=UTF-8
+encoding//src/com/service/PersonServiceImplSoapBindingStub.java=UTF-8
